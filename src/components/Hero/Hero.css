@@ -1,0 +1,12 @@
+.text-my-primary{
+    color: var(--my-primary-color);
+}
+
+@media screen and (max-width : 992px) {
+    .hero .items{
+        width: 100%;
+    }
+    .hero .items img {
+        width: 90% !important;
+    }
+}

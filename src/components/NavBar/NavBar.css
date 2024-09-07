@@ -1,0 +1,8 @@
+.bg-my-primary{
+    background-color: var(--my-primary-color) !important;
+}
+
+nav .logo img{
+    width: 35px;
+    height: 35px;
+}
